@@ -89,3 +89,6 @@ reg.fit(x_train,y_train)
 y_predict=reg.predict(x_train)
 print(reg.score(x_test,y_test))
 print(mean_squared_error(y_train, y_predict))
+
+
+
