@@ -53,7 +53,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
   <td>Outlet_Type</td><td>Whether the outlet is just a grocery store or some sort of supermarket</td>
   </tr>
 <tr>
-  <td>Item_Outlet_Sales</td><td>Sales of the product in the particulat store. This is the outcome variable to be predicted.</td>
+  <td>Item_Outlet_Sales</td><td>Sales of the product in the particular store. This is the outcome variable to be predicted.</td>
   </tr>
 
 </body>
