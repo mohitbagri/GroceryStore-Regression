@@ -15,62 +15,46 @@ We have train (8523) and test (5681) data set, train data set has both input and
 <!DOCTYPE html>
 <html>
 <body>
-
-<h2>Basic HTML Table</h2>
-
 <table style="width:100%">
   <tr>
     <td>Variable</td> <td>Description</td>
   </tr>
-  
-
-Item_Identifier
-
-Unique product ID
-
-Item_Weight
-
-Weight of product
-
-Item_Fat_Content
-
-Whether the product is low fat or not
-
-Item_Visibility
-
-The % of total display area of all products in a store allocated to the particular product
-
-Item_Type
-
-The category to which the product belongs
-
-Item_MRP
-
-Maximum Retail Price (list price) of the product
-
-Outlet_Identifier
-
-Unique store ID
-
-Outlet_Establishment_Year
-
-The year in which store was established
-
-Outlet_Size
-
-The size of the store in terms of ground area covered
-
-Outlet_Location_Type
-
-The type of city in which the store is located
-
-Outlet_Type
-
-Whether the outlet is just a grocery store or some sort of supermarket
-
-Item_Outlet_Sales
-
-Sales of the product in the particulat store. This is the outcome variable to be predicted.
+  <tr>
+    <td>Item_Identifier</td><td>Unique product ID</td>
+  </tr>
+<tr>
+  <td>Item_Weight</td><td>Weight of product</td>
+  </tr>
+<tr>
+  <td>Item_Fat_Content</td><td>Whether the product is low fat or not</td>
+  </tr>
+  <tr>
+    <td>Item_Visibility</td><td>The % of total display area of all products in a store allocated to the particular product</td>
+  </tr>
+<tr>
+  <td>Item_Type</td><td>The category to which the product belongs</td>
+  </tr>
+<tr>
+  <td>Item_MRP</td><td>Maximum Retail Price (list price) of the product</td>
+  </tr>
+<tr>
+  <td>Outlet_Identifier</td><td>Unique store ID</td>
+  </tr>
+<tr>
+  <td>Outlet_Establishment_Year</td><td>The year in which store was established</td>
+  </tr>
+<tr>
+  <td>Outlet_Size</td><td>The size of the store in terms of ground area covered</td>
+  </tr>
+<tr>
+  <td>Outlet_Location_Type</td><td>The type of city in which the store is located</td>
+  </tr>
+<tr>
+  <td>Outlet_Type</td><td>Whether the outlet is just a grocery store or some sort of supermarket</td>
+  </tr>
+<tr>
+  <td>Item_Outlet_Sales</td><td>Sales of the product in the particulat store. This is the outcome variable to be predicted.</td>
+  </tr>
 
 </body>
 </html>
